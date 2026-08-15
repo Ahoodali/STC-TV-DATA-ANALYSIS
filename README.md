@@ -17,15 +17,20 @@ Analyzed viewing behavior, content preferences, video quality, and watch time pa
 
 ![data analysis](<لقطة شاشة 2026-08-15 100053.png>)
 
+---
+
 ### 2. Time Series Forecasting
 Used historical watch-time data to forecast expected viewing activity for the upcoming months.
 
 ![data](<لقطة شاشة 2026-08-15 055004.png>)
 
+---
 ### 3. Recommendation System
 Built a recommendation approach using users' viewing behavior and preferences to suggest relevant programs.
 
+![data2](<لقطة شاشة 2026-08-15 061034.png>)
 
+---
 ### 4. Data Storytelling
 Presented the key findings, insights, and recommendations in a PowerPoint presentation.
 
