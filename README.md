@@ -14,6 +14,7 @@ This project focuses on analyzing STC TV viewing data and using machine learning
 
 ### 1. Data Analysis
 Analyzed viewing behavior, content preferences, video quality, and watch time patterns.
+![program class](لقطة شاشة 2026-08-15 100053.png)
 
 ### 2. Time Series Forecasting
 Used historical watch-time data to forecast expected viewing activity for the upcoming months.
